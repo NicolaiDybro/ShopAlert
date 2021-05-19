@@ -1,0 +1,8 @@
+name: ShopAlert
+version: ${project.version}
+main: com.zoomdk.shopalert.ShopAlert
+api-version: 1.16
+authors: [ ZoomDK ]
+commands:
+  shopalert:
+    description: ShopAlert command
